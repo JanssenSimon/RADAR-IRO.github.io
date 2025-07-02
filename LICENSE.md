@@ -8,9 +8,9 @@ Ce logiciel et son code source sont sujets aux termes de la LiLiQ-R+.
 La description de license qui suit est tiré du site web de l'OSI,
 elle est cédé sous CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
---------------------------------------------------------------------------------
+***
 
-Licence Libre du Québec – Réciprocité forte (LiLiQ-R+) version 1.1
+## Licence Libre du Québec – Réciprocité forte (LiLiQ-R+) version 1.1
 
 1. Préambule
 Cette licence s’applique à tout logiciel distribué dont le titulaire du droit 
@@ -20,34 +20,34 @@ Réciprocité forte (LiLiQ-R+) (ci-après appelée la « licence »).
 2. Définitions
 Dans la présente licence, à moins que le contexte n’indique un sens différent, 
 on entend par: 
-« concédant » : le titulaire du droit d’auteur sur le logiciel, ou toute 
-  personne dûment autorisée par ce dernier à accorder la présente licence;
-« contributeur » : le titulaire du droit d’auteur ou toute personne autorisée 
-  par ce dernier à soumettre au concédant une contribution. Un contributeur 
-  dont sa contribution est incorporée au logiciel est considéré comme un 
-  concédant en regard de sa contribution;
-« contribution » : tout logiciel original, ou partie de logiciel original 
-  soumis et destiné à être incorporé dans le logiciel; 
-« distribution » : le fait de délivrer une copie du logiciel;
-« licencié » : toute personne qui possède une copie du logiciel et qui exerce 
-  les droits concédés par la licence;
-« logiciel » : une œuvre protégée par le droit d’auteur, telle qu’un programme 
-  d’ordinateur et sa documentation, pour laquelle le titulaire du droit 
-  d’auteur a précisé qu’elle est sujette aux termes de la présente licence;
-« logiciel dérivé » : tout logiciel original réalisé par un licencié, autre 
-  que le logiciel ou un logiciel modifié, qui produit ou reproduit la totalité 
-  ou une partie importante du logiciel;
-« logiciel modifié » : toute modification par un licencié de l’un des fichiers 
-  source du logiciel ou encore tout nouveau fichier source qui incorpore le 
-  logiciel ou une partie importante de ce dernier.
+  « concédant » : le titulaire du droit d’auteur sur le logiciel, ou toute 
+    personne dûment autorisée par ce dernier à accorder la présente licence;
+  « contributeur » : le titulaire du droit d’auteur ou toute personne autorisée 
+    par ce dernier à soumettre au concédant une contribution. Un contributeur 
+    dont sa contribution est incorporée au logiciel est considéré comme un 
+    concédant en regard de sa contribution;
+  « contribution » : tout logiciel original, ou partie de logiciel original 
+    soumis et destiné à être incorporé dans le logiciel; 
+  « distribution » : le fait de délivrer une copie du logiciel;
+  « licencié » : toute personne qui possède une copie du logiciel et qui exerce 
+    les droits concédés par la licence;
+  « logiciel » : une œuvre protégée par le droit d’auteur, telle qu’un programme 
+    d’ordinateur et sa documentation, pour laquelle le titulaire du droit 
+    d’auteur a précisé qu’elle est sujette aux termes de la présente licence;
+  « logiciel dérivé » : tout logiciel original réalisé par un licencié, autre 
+    que le logiciel ou un logiciel modifié, qui produit ou reproduit la totalité 
+    ou une partie importante du logiciel;
+  « logiciel modifié » : toute modification par un licencié de l’un des fichiers 
+    source du logiciel ou encore tout nouveau fichier source qui incorpore le 
+    logiciel ou une partie importante de ce dernier.
 
 3. Licence de droit d’auteur
 Sous réserve des termes de la licence, le concédant accorde au licencié une 
 licence non exclusive et libre de redevances lui permettant d’exercer les 
 droits suivants sur le logiciel :
- 1° Produire ou reproduire la totalité ou une partie importante;
- 2° Exécuter ou représenter la totalité ou une partie importante en public;
- 3° Publier la totalité ou une partie importante.
+  1° Produire ou reproduire la totalité ou une partie importante;
+  2° Exécuter ou représenter la totalité ou une partie importante en public;
+  3° Publier la totalité ou une partie importante.
 Cette licence est accordée sans limite territoriale et sans limite de temps. 
 L’exercice complet de ces droits est sujet à la distribution par le concédant 
 du code source du logiciel, lequel doit être sous une forme permettant d’y 
@@ -59,14 +59,14 @@ code source. Cette offre doit être valide pendant une durée raisonnable.
 4. Distribution
 Le licencié peut distribuer des copies du logiciel, d’un logiciel modifié ou 
 dérivé, sous réserve de respecter les conditions suivantes :
- 1° Le logiciel doit être accompagné d’un exemplaire de cette licence;
- 2° Si le logiciel a été modifié, le licencié doit en faire la mention, de 
-    préférence dans chacun des fichiers modifiés dont la nature permet une 
-    telle mention;
- 3° Les étiquettes ou mentions faisant état des droits d’auteur, des marques de 
-    commerce, des garanties ou de la paternité concernant le logiciel ne 
-    doivent pas être modifiées ou supprimées, à moins que ces étiquettes ou 
-    mentions ne soient inapplicables à un logiciel modifié ou dérivé donné.
+  1° Le logiciel doit être accompagné d’un exemplaire de cette licence;
+  2° Si le logiciel a été modifié, le licencié doit en faire la mention, de 
+     préférence dans chacun des fichiers modifiés dont la nature permet une 
+     telle mention;
+  3° Les étiquettes ou mentions faisant état des droits d’auteur, des marques de 
+      commerce, des garanties ou de la paternité concernant le logiciel ne 
+      doivent pas être modifiées ou supprimées, à moins que ces étiquettes ou 
+      mentions ne soient inapplicables à un logiciel modifié ou dérivé donné.
 
 4.1. Réciprocité
 Chaque fois que le licencié distribue le logiciel, le concédant offre au 
@@ -90,12 +90,12 @@ assujetti à une licence compatible. Est considérée comme une licence compatib
 toute licence libre approuvée ou certifiée par la Free Software Foundation ou 
 l’Open Source Initiative, dont le niveau de réciprocité est comparable à celui 
 de la présente licence, sans toutefois être moindre, notamment :
- 1° Common Public License Version 1.0 (CPL-1.0)
- 2° Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1)
- 3° Eclipse Public License – v 1.0 (EPL-1.0)
- 4° European Union Public License, version 1.1 (EUPL v. 1.1)
- 5° GNU General Public License Version 2 (GNU GPLv2)
- 6° GNU General Public License Version 3 (GNU GPLv3)
+  1° Common Public License Version 1.0 (CPL-1.0)
+  2° Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1)
+  3° Eclipse Public License – v 1.0 (EPL-1.0)
+  4° European Union Public License, version 1.1 (EUPL v. 1.1)
+  5° GNU General Public License Version 2 (GNU GPLv2)
+  6° GNU General Public License Version 3 (GNU GPLv3)
 
 5. Contributions
 Sous réserve d’une entente distincte, toute contribution soumise par un 
@@ -153,7 +153,7 @@ the course of seeking OSI approval of this license. This English translation is
 not part of the OSI-approved license and it has not itself been approved by the 
 OSI.
 
-Québec Free and Open-Source Licence – Strong Reciprocity (LiLiQ-R+) Version 1.1
+## Québec Free and Open-Source Licence – Strong Reciprocity (LiLiQ-R+) Version 1.1
 
 1. Preamble
 This licence applies to any distributed software stipulated by its copyright 
@@ -163,34 +163,34 @@ Strong Reciprocity (LiLiQ-R+) (hereinafter referred to as the “licence”).
 2. Definitions
 Unless the context indicates otherwise, the following terms are used in this 
 licence:
-“contribution”: any original software or part of original software submitted 
-  and intended to be integrated into the software;
-“contributor”: the copyright owner or any person authorized by the copyright 
-  owner to submit a contribution to the licensor. A contributor whose 
-  contribution is integrated into the software is considered a licensor with 
-  respect to that contribution;
-“derived software”: any original software developed by a licensee, other than 
-  the software or modified software, that produces or reproduces all or a 
-  substantial part of the software;
-“distribution”: the act of delivering a copy of the software;
-“licensee”: any person possessing a copy of the software who exercises the 
-  rights granted by the licence;
-“licensor”: the software copyright owner or any person duly authorized by the 
-  copyright owner to grant this licence;
-“modified software”: any modification made by a licensee to one of the 
-  software’s source code files, or any new source code file that integrates the 
-  software or a substantial part of it;
-“software”: a copyright-protected work such as a computer program and its 
-  documentation, stipulated by the copyright owner to be subject to the terms 
-  of this licence.
+  “contribution”: any original software or part of original software submitted 
+    and intended to be integrated into the software;
+  “contributor”: the copyright owner or any person authorized by the copyright 
+    owner to submit a contribution to the licensor. A contributor whose 
+    contribution is integrated into the software is considered a licensor with 
+    respect to that contribution;
+  “derived software”: any original software developed by a licensee, other than 
+    the software or modified software, that produces or reproduces all or a 
+    substantial part of the software;
+  “distribution”: the act of delivering a copy of the software;
+  “licensee”: any person possessing a copy of the software who exercises the 
+    rights granted by the licence;
+  “licensor”: the software copyright owner or any person duly authorized by the 
+    copyright owner to grant this licence;
+  “modified software”: any modification made by a licensee to one of the 
+    software’s source code files, or any new source code file that integrates the 
+    software or a substantial part of it;
+  “software”: a copyright-protected work such as a computer program and its 
+    documentation, stipulated by the copyright owner to be subject to the terms 
+    of this licence.
 
 3. Copyright licence
 Subject to the terms of this licence, the licensor grants the licensee a 
 non-exclusive, royalty-free licence allowing the licensee to exercise the 
 following rights regarding the software:
- (1) Produce or reproduce the software or a substantial part thereof;
- (2) Perform the software or any substantial part of it in public;
- (3) Publish the software or any substantial part of it.
+  (1) Produce or reproduce the software or a substantial part thereof;
+  (2) Perform the software or any substantial part of it in public;
+  (3) Publish the software or any substantial part of it.
 This licence is granted on a world-wide, perpetual basis. Full exercise of 
 these rights is subject to distribution by the licensor of the software source 
 code in a form allowing it to be modified. The licensor may also distribute the 
@@ -201,12 +201,12 @@ code. That offer must be valid for a reasonable period of time.
 4. Distribution
 The licensee may distribute copies of the software, modified software or 
 derived software, subject to the following conditions:
- (1) The software must be accompanied by a copy of this licence.
- (2) If the software has been modified, the licensee must mention this, 
-     preferably in every modified file that allows for such a mention.
- (3) Software copyright, trademark, warranty or attribution labels or notices 
-     must not be modified or removed, unless the labels or notices do not apply 
-     to specific modified or derived software.
+  (1) The software must be accompanied by a copy of this licence.
+  (2) If the software has been modified, the licensee must mention this, 
+      preferably in every modified file that allows for such a mention.
+  (3) Software copyright, trademark, warranty or attribution labels or notices 
+      must not be modified or removed, unless the labels or notices do not apply 
+      to specific modified or derived software.
 
 4.1. Reciprocity
 Every time the licensee distributes the software, the licensor grants the 
@@ -230,12 +230,12 @@ considered to be any free or open-source licence approved or certified by the
 Free Software Foundation or the Open Source Initiative, whose level of 
 reciprocity is comparable to that of this licence, without being less so, in 
 particular:
- (1) Common Public License Version 1.0 (CPL-1.0)
- (2) Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1)
- (3) Eclipse Public License – v 1.0 (EPL-1.0)
- (4) European Union Public License, version 1.1 (EUPL v. 1.1)
- (5) GNU General Public License Version 2 (GNU GPLv2)
- (6) GNU General Public License Version 3 (GNU GPLv3)
+  (1) Common Public License Version 1.0 (CPL-1.0)
+  (2) Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1)
+  (3) Eclipse Public License – v 1.0 (EPL-1.0)
+  (4) European Union Public License, version 1.1 (EUPL v. 1.1)
+  (5) GNU General Public License Version 2 (GNU GPLv2)
+  (6) GNU General Public License Version 3 (GNU GPLv3)
 
 5. Contributions
 Subject to a separate agreement, every contribution submitted by a contributor 

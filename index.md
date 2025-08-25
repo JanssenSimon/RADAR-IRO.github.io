@@ -181,6 +181,10 @@ In a fashion heavily inspired by [Hugo](https://gohugo.io), you can write things
 Last modified: {{ fill fd_mtime }}.
 ```
 
+~~~
+{{homepage_list}}
+~~~
+
 (cf. `src/_html_parts/page_foot.html`) which will then replace these braces with the content of a dictionary of variables at the key `fd_mtime`.
 This dictionary of variables is accessed locally by pages through `@def varname = value` and globally through the `config.md` page via the same syntax.
 

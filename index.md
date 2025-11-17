@@ -1,14 +1,13 @@
 +++
-title = "Site Web du regroupement des personnes amatrices d'astronautique et de radioastronomie"
+title = "Accueil — Site Web du RADAR"
 tags = ["DIRO", "club étudiant", "radioastronomie", "astronautique", "radioamateur"]
 +++
 
-
 # Site Web du regroupement des personnes amatrices d'astronautique et de radioastronomie
 
-Ps: if you want to modify the header or footer or the general look of the website, adjust the files in
-* `/_css/` and
-* `/_layout/`.
+Bienvenue au site Web du club! Vous y trouverez des descriptions de nos
+activités, une liste de nos membres (présent et passé) et des billets de notre
+blogue.
 
 ~~~
 {{homepage_list}}

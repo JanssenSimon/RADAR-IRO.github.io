@@ -1,3 +1,8 @@
++++
+title = "Activités — Site Web du RADAR"
+tags = ["DIRO", "club étudiant", "radioastronomie", "astronautique", "radioamateur"]
++++
+
 # Activités
 
 ## Activités en cours

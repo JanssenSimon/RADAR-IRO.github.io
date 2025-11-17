@@ -1,3 +1,8 @@
++++
+title = "À propos — Site Web du RADAR"
+tags = ["DIRO", "club étudiant", "radioastronomie", "astronautique", "radioamateur"]
++++
+
 # À Propos
 
 Le RADAR (regroupement des amateurs/amatrices d'astronautique et de

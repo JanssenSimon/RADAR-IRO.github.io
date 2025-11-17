@@ -1,1 +1,104 @@
++++
+title = "Membres — Site Web du RADAR"
+tags = ["DIRO", "club étudiant", "radioastronomie", "astronautique", "radioamateur"]
++++
+
 # Membres
+
+Les membres ci dessous forment ensemble le RADAR. L'enregistrement des membres est plutôt informel donc il se peut que des participant.e.s régulier.e.s aux rencontres ne figurent pas dans la liste.
+
+~~~
+    <section>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Nom</th>
+                <th>Session</th>
+                <th>Indicatif d'appel</th>
+            </tr>
+            <tr>
+                <td>000</td>
+                <td>Simon Janssen</td>
+                <td>H23</td>
+                <td>VA2SZM</td>
+            </tr>
+            <tr>
+                <td>001</td>
+                <td>Emma Cadet</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>002</td>
+                <td>Mattéo Delabre</td>
+                <td>H23</td>
+                <td>VA2NPC</td>
+            </tr>
+            <tr>
+                <td>003</td>
+                <td>Rawane Abdel All</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>004</td>
+                <td>Queso aka T-Bone aka The REAL slim shady</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td><sup>22</sup>&#x2044;<sub>7</sub></td>
+                <td>Maxim Bernard</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>006</td>
+                <td>Julien-Charles</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>007</td>
+                <td>Médéric Bouchard</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>042</td>
+                <td>Nahomy Durand</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>009</td>
+                <td>Guillaume Tardif</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>010</td>
+                <td>Louis-Pierre Bastien</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>011</td>
+                <td>Samuel Fournier</td>
+                <td>H23</td>
+            </tr>
+            <tr>
+                <td>012</td>
+                <td>Léonard Oest O'Leary</td>
+                <td>E23</td>
+            </tr>
+            <tr>
+                <td>013</td>
+                <td>Théodore Le Roy</td>
+                <td>A23</td>
+                <td>VA2TLR</td>
+            </tr>
+            <tr>
+                <td>047</td>
+                <td>André Garcia</td>
+                <td>A24</td>
+            </tr>
+            <tr>
+                <td>015</td>
+                <td>William Perktold</td>
+                <td>H23</td>
+            </tr>
+        </table>
+    </section>
+~~~

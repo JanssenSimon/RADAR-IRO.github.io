@@ -30,7 +30,7 @@ function hfun_homepage_list()::String
     write(io, "<ul>")
     for post in list
         url = "/" * trimext(post) * "/"
-        write(io, """<li><a href="$url">$(pagevar(post, "title"))</a></li>\n""")
+        write(io, """<li><a href="$url">$(pagevar(post, "title"))</a><p>$(pagevar(post, "rss_description"))</p></li>\n""")
     end
     write(io, "</ul>")
     return String(take!(io))

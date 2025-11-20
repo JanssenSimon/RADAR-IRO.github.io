@@ -35,3 +35,21 @@ function hfun_homepage_list()::String
     write(io, "</ul>")
     return String(take!(io))
 end
+
+function hfun_blog_list()::String
+    # Get markdown files' path from /blog/
+    list = [joinpath("blog", f) for f in readdir("blog") if endswith(f, ".md")]
+
+    # Sort files by recency
+    sort!(list, by=f->pagevar(f, "rss_pubdate"), rev=true)
+
+    # Create and return list of links
+    io = IOBuffer()
+    write(io, "<ul>")
+    for post in list
+        url = "/" * trimext(post) * "/"
+        write(io, """<li><a href="$url">$(pagevar(post, "title"))</a></li>\n""")
+    end
+    write(io, "</ul>")
+    return String(take!(io))
+end
